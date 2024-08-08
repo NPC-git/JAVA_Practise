@@ -22,7 +22,7 @@ public class requesting_scores {
 
 
     private static int getMin(int[] arr) {
-        // 4. 求最小值
+        
         int min = arr[0];
         for (int i = 1; i < arr.length; i++) {
             if (arr[i] < min) {
