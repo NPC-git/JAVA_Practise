@@ -1,12 +1,13 @@
 package prcatise;
+/*input a number and
+        check if it reads the same forward and backward (like 1221 or 131)
+         */
 
 import java.util.Scanner;
 
 public class palindromic_num {
     public static void main(String[] args) {
-        /*input a number and
-        check if it reads the same forward and backward (like 1221 or 131)
-         */
+        
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number:");
